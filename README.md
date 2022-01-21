@@ -122,7 +122,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arafathzrx/WhatsAsenaDuplicated)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
@@ -140,7 +140,7 @@ $ node bot.js
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/Arafathzrx/WhatsAsenaDuplicated/wiki)
 
 ##
 
